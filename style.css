@@ -1,0 +1,28 @@
+body {
+    width: 300px;
+    height: 300px;
+    background-color: aliceblue;
+   
+}
+div{
+    display: flex;
+    justify-content: center;
+   
+}
+
+p {
+    display: inner-flex;
+    margin: auto 10px;
+    margin-top: 6em;;
+    font-size: 20px;
+    color: blue;
+    border-radius: 6px;
+    border: 1px solid lightblue;
+    padding: 10px;
+}
+footer{
+   padding-top: 8em;
+    text-align: center;
+    font-size: small;
+
+}
